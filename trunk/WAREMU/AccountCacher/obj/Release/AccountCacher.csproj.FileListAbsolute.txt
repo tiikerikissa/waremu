@@ -1,0 +1,6 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\AccountCacher.exe.config
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\AccountCacher.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\AccountCacher.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\AccountCacher\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\AccountCacher\obj\Release\AccountCacher.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\AccountCacher\obj\Release\AccountCacher.pdb

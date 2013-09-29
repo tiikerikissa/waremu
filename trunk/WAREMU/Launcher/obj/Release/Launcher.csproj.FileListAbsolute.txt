@@ -1,0 +1,10 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\Launcher\Launcher.exe.config
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\Launcher\Launcher.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\Launcher\Launcher.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\Launcher.Accueil.resources
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\Launcher.Properties.Resources.resources
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\Launcher.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Release\Launcher.pdb

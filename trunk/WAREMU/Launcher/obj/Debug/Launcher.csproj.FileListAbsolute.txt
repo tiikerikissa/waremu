@@ -1,0 +1,5 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Debug\Launcher.Accueil.resources
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Launcher\obj\Debug\GenerateResource.write.1.tlog
