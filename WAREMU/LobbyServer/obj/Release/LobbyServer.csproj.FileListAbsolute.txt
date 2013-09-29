@@ -1,0 +1,6 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\LobbyServer.exe.config
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\LobbyServer.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\LobbyServer.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LobbyServer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LobbyServer\obj\Release\LobbyServer.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LobbyServer\obj\Release\LobbyServer.pdb

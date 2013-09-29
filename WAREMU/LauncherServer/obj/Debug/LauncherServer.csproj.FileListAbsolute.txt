@@ -1,0 +1,11 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\LauncherServer.exe.config
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\LauncherServer.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\LauncherServer.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\Common.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\FrameWork.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\MySql.Data.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\FrameWork.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\bin\Release\Common.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\obj\Debug\LauncherServer.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\LauncherServer\obj\Debug\LauncherServer.pdb

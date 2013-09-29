@@ -1,0 +1,5 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\Common.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\bin\Release\Common.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Common\obj\Release\Common.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\Common\obj\Release\Common.pdb

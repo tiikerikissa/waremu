@@ -1,0 +1,11 @@
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\WorldServer.exe.config
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\WorldServer.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\WorldServer.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\Common.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\FrameWork.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\MySql.Data.dll
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\FrameWork.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\bin\Release\Common.pdb
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\obj\Debug\WorldServer.exe
+C:\Users\Diego\Desktop\Programación\WAR APS\WAREMU\WorldServer\obj\Debug\WorldServer.pdb
