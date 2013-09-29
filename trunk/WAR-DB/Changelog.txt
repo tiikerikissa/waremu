@@ -1,0 +1,73 @@
+[WAR DB] || Changelog
+
+05/28/2012 (21:35) || Revision 11
+
+- Added All Classes character_stats.
+
+05/21/2012 (19:57) || Revision 10
+
+- Added Sorcerer and DoK stats.
+- Added Black Crag, Cinderfall offsets.
+
+05/20/2012 (10:30) || Revision 9
+
+- Updated Ability Infos (henry)
+- Updated Zone Infos
+
+04/05/2012 (10:48) || Revision 8
+
+- Updated GameObject Spawns (dyox)
+- Updated Ability Infos (dyox)
+- Updated Chapter Infos (dyox)
+- Updated Creature Items (dyox)
+- Updated Creature Spawns (dyox)
+- Updated Creature Texts (dyox)
+- Added Zone Areas (dyox)
+- Added Zone Respawns (dyox)
+
+04/03/2012 (11:14) || Revision 7
+
+- Added all careers in character_stats [Thanks henry for the help]
+- Fixed Sovereign Set 'King's Ransom Runerobes' (Rune Priest)
+- Added Sovereign Set 'King's Bounty Runerobes' (Rune Priest)
+- Added Worn Sovereign Set 'Worn King's Ransom Runerobes' and 'Worn King's Ransom Runerobes' (Rune Priest)
+- Deleted the program publicity.
+
+04/02/2012 (16:07) || Revision 6
+
+- Added KotBS and Bright Wizard character stats [Thanks henry]
+- Added Sovereign Set 'King's Ransom Battle Kit' (Slayer)
+- Added 'Worn King's Ransom Battle Kit' and 'Worn King's Bounty Battle Kit' sets. (Ironbreaker).
+- Updated 'Credits'
+
+04/01/2012 (20:52) || Revision 5
+
+- Added new option (U) Install ONLY the update of this revision.
+- Fixed Sovereign Set 'King's Ransom Battle Kit' (Slayer) (Not ModelID yet)
+- Added Sovereign Set 'King's Bounty War Kit' (Ironbreaker)
+- Added 'Worn King's Ransom War Kit' and 'Worn King's Bounty War Kit' sets. (Ironbreaker)
+
+04/01/2012 (03:29) || Revision 4
+
+- Fixed character_stats Greenskins careers (ALL).
+- Fixed Witch Hunter character_stats
+- Fixed Sovereign Set 'King's Ransom War Kit' (Ironbreaker).
+
+03/30/2012 (18:03) || Revision 3
+
+- Fixed character_stats Dwarfs careers.
+- Fixed character_stats Greenskins careers.
+- Fixed Renown Table.
+- War_world is deleted as fixed database, now the user decides where to install.
+- Users will elect now also the name of the database accounts and character to backup. 
+
+03/28/2012 (18:03) || Revision 2
+
+- Fixed character_stats to Ironbreaker firsts 5 levels.
+- Fixed character_stats to Slayer firsts 3 levels.
+- Fixed character_stats to Rune Priest firsts 3 levels.
+- Fixed character_stats to Engineer firsts 3 levels. 
+
+02/11/2012 (17:42) || Revision 1
+
+- First Release 
