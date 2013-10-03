@@ -619,7 +619,7 @@ namespace WorldServer
 
         public void SendQuest(ushort QuestID)
         {
-            Character_quest_inprogress = GetQuest(QuestID);
+            Character_quest_inprogress CQuest = GetQuestDone(QuestID);
             SendQuest(CQuest);
         }
 
