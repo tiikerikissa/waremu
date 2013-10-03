@@ -112,9 +112,12 @@ namespace WorldServer
         public virtual void Say(string Msg, SystemData.ChatLogFilters Filter)
         {
             foreach (Player Plr in _PlayerRanged.ToArray())
+
+                if (Plr.Realm == GameData.Realms.REALMS_REALM_ORDER && GetPlayer().Realm == GameData.Realms.REALMS_REALM_ORDER)
+                Plr.SendMessage(this, Msg, Filter);
+                else if (Plr.Realm == GameData.Realms.REALMS_REALM_DESTRUCTION && GetPlayer().Realm == GameData.Realms.REALMS_REALM_DESTRUCTION)
                 Plr.SendMessage(this, Msg, Filter);
 
-            if (IsPlayer())
                 GetPlayer().SendMessage(this, Msg, Filter);
         }
 
