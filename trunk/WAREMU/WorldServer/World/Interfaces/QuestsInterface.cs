@@ -338,13 +338,13 @@ namespace WorldServer
             return true;
         }
 
-        public void DeclineQuest(Quest Quest)
+        public void DeclineQuest(UInt16 QuestID)
         {
-            if (Quest == null)
-                return;
+            Character_quest_inprogress Quest = GetQuestInProgress(QuestID);
 
-            if (!HasQuest(Quest.Entry))
-                return;
+            CharMgr.Database.DeleteObject(Quest);
+
+            SendQuestState(Quest.Quest, QuestCompletion.QUESTCOMPLETION_ABANDONED);
         }
 
         public bool DoneQuest(UInt16 QuestID)
