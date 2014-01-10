@@ -141,9 +141,11 @@ namespace WorldServer
 
                 case 1: // Decline Quest
                     {
+			Log.Info("F_REQUEST_QUEST", "Decline Quest : " + QuestID);
+                        cclient.Plr.QtsInterface.DeclineQuest(QuestID);
 
                     }
-                    break;
+                      break;
 
                 case 2: // Send To Group
                     {
