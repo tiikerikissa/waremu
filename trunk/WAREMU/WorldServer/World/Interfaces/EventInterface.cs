@@ -175,6 +175,12 @@ namespace WorldServer
                 _Events.RemoveAll(Info => Info.Del == Del);
         }
 
+        public bool HasEvent(EventDelegate Del)
+        {
+            lock (_Events)
+                return _Events.Find(info => info.Del == Del) != null;
+        }
+
         #endregion
 
         #region Notify
