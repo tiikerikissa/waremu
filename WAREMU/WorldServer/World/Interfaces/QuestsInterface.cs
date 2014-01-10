@@ -251,7 +251,7 @@ namespace WorldServer
             return Quest;
         }
 
-        public Character_quest_inprogress GetQuestDone(UInt16 QuestID)
+        public Character_quest_inprogress GetQuestInProgress(UInt16 QuestID)
         {
             Character_quest_inprogress Quest;
             _InProgressQuests.TryGetValue(QuestID, out Quest);
@@ -350,7 +350,7 @@ namespace WorldServer
         public bool DoneQuest(UInt16 QuestID)
         {
             Character_quest Quest = GetQuest(QuestID);
-	    Character_quest_inprogress IQuest = GetQuestDone(QuestID);
+	    Character_quest_inprogress IQuest = GetQuestInProgress(QuestID);
 
             if (Quest == null || !Quest.IsDone())
                 return false;
@@ -619,7 +619,7 @@ namespace WorldServer
 
         public void SendQuest(ushort QuestID)
         {
-            Character_quest_inprogress CQuest = GetQuestDone(QuestID);
+            Character_quest_inprogress CQuest = GetQuestInProgress(QuestID);
             SendQuest(CQuest);
         }
 
